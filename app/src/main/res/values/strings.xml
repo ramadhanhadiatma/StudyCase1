@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudiyCase1</string>
+    <string name="judul">Makan Malam</string>
+    <string name="sub_judul">dengan milea</string>
+    <string name="editText_makan">Nama Makanan</string>
+    <string name="editText_porsi">Jumlah Porsi</string>
+    <string name="button_eatbus">EATBUS</string>
+    <string name="button_abnormal">ABNORMAL</string>
+    <string name="activity_second_name">activity_second</string>
+    <string name="judul_second">Makan Malam</string>
+    <string name="textView_menu">Menu</string>
+    <string name="textView_macam">Porsi</string>
+    <string name="textView_price">Harga</string>
+</resources>

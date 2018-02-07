@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="judulSize">14pt</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top_judul">30dp</dimen>
+    <dimen name="size_sub">8pt</dimen>
+    <dimen name="top_subjudul">1sp</dimen>
+    <dimen name="margin_top_editMakan">60dp</dimen>
+    <dimen name="margin_top_textview">35dp</dimen>
+    <dimen name="margin_top_textview2">3dp</dimen>
+    <dimen name="size_view1">6pt</dimen>
+    <dimen name="size_view2">8pt</dimen>
+</resources>
